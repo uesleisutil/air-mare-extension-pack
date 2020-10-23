@@ -1,0 +1,35 @@
+{
+    "name": "air-mare-extension-pack",
+    "displayName": "Air,Mare Extension Pack",
+    "description": "Pack with extensions I use to increase productivity and make my life easier.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "publisher": "Ueslei",
+    
+    "extensionPack": [ 
+        "batisteo.vscode-django",
+        "ms-vscode.cpptools",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-test",
+        "kiteco.kite",
+        "redhat.java",
+        "James-Yu.latex-workshop",
+        "ritwickdey.LiveServer",
+        "vscjava.vscode-maven",
+        "krvajalm.linter-gfortran",
+        "monokai.theme-monokai-pro-vscode",
+        "yueyueBird.ncl",
+        "ms-python.vscode-pylance",
+        "vscjava.vscode-java-dependency",
+        "octref.vetur",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "jithurjacob.nbpreviewer",
+        "hollowtree.vue-snippets"
+    ]
+}
